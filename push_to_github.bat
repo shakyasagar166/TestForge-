@@ -1,7 +1,7 @@
 @echo off
 echo ========================================================
 echo   TestForge - Push to GitHub
-echo   Repository: https://github.com/shakyasagar166/TestForge.git
+echo   Repository: https://github.com/shakyasagar166/TestForge-.git
 echo ========================================================
 echo.
 

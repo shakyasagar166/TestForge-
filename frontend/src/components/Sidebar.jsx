@@ -141,7 +141,7 @@ export default function Sidebar({ currentPage, onNavigate, stats }) {
         </p>
         <div style={{ display: 'flex', flexDirection: 'column', gap: '5px', fontSize: '0.75rem' }}>
           <a
-            href="https://uncodemy.com/course/rag-engineering-course-training-course-in-delhi"
+            href="https://uncodemy.com/course/software-testing-training-course-in-delhi"
             target="_blank"
             rel="noopener noreferrer"
             style={{ color: '#94a3b8', textDecoration: 'none', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}
@@ -152,7 +152,7 @@ export default function Sidebar({ currentPage, onNavigate, stats }) {
             <span style={{ fontSize: '0.7rem', color: '#64748b' }}>↗</span>
           </a>
           <a
-            href="https://uncodemy.com/course/rag-engineering-course-training-course-in-noida"
+            href="https://uncodemy.com/course/software-testing-training-course-in-noida"
             target="_blank"
             rel="noopener noreferrer"
             style={{ color: '#94a3b8', textDecoration: 'none', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}

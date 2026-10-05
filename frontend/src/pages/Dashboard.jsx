@@ -257,7 +257,7 @@ export default function Dashboard({ stats, onNavigate, onGenerateAI, isGeneratin
         </p>
         <div style={{ display: 'flex', flexWrap: 'wrap', gap: '12px' }}>
           <a
-            href="https://uncodemy.com/course/rag-engineering-course-training-course-in-delhi"
+            href="https://uncodemy.com/course/software-testing-training-course-in-delhi"
             target="_blank"
             rel="noopener noreferrer"
             style={{
@@ -283,11 +283,11 @@ export default function Dashboard({ stats, onNavigate, onGenerateAI, isGeneratin
               e.currentTarget.style.backgroundColor = '#1e293b';
             }}
           >
-            <span>🏛️ RAG Engineering Training Course in Delhi</span>
+            <span>🏛️ Software Testing Training Course in Delhi</span>
             <ExternalLink size={14} />
           </a>
           <a
-            href="https://uncodemy.com/course/rag-engineering-course-training-course-in-noida"
+            href="https://uncodemy.com/course/software-testing-training-course-in-noida"
             target="_blank"
             rel="noopener noreferrer"
             style={{
@@ -313,7 +313,7 @@ export default function Dashboard({ stats, onNavigate, onGenerateAI, isGeneratin
               e.currentTarget.style.backgroundColor = '#1e293b';
             }}
           >
-            <span>🏢 RAG Engineering Training Course in Noida</span>
+            <span>🏢 Software Testing Training Course in Noida</span>
             <ExternalLink size={14} />
           </a>
         </div>

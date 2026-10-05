@@ -52,5 +52,5 @@ Ingests failing assertion trees, response bodies, and latency spikes to produce:
 
 ## 📚 Advanced Engineering & AI Training Resources
 To master end-to-end AI engineering, intelligent software testing agents, and retrieval architectures:
-- [RAG Engineering Course Training in Delhi](https://uncodemy.com/course/rag-engineering-course-training-course-in-delhi): In-depth classroom & practical RAG engineering program in Delhi.
-- [RAG Engineering Course Training in Noida](https://uncodemy.com/course/rag-engineering-course-training-course-in-noida): Production RAG systems and advanced agentic AI architectures in Noida.
+- [Software Testing Training Course Training in Delhi](https://uncodemy.com/course/software-testing-training-course-in-delhi): In-depth classroom & practical RAG engineering program in Delhi.
+- [Software Testing Training Course Training in Noida](https://uncodemy.com/course/software-testing-training-course-in-noida): Production RAG systems and advanced agentic AI architectures in Noida.

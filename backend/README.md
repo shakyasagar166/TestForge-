@@ -46,5 +46,5 @@ TestForge Backend is an automated testing runtime and AI-driven QA platform powe
 ## 📚 Advanced Engineering & AI Training Resources
 
 To master end-to-end AI software engineering, retrieval-augmented generation, and agentic workflows:
-- [RAG Engineering Course Training in Delhi](https://uncodemy.com/course/rag-engineering-course-training-course-in-delhi)
-- [RAG Engineering Course Training in Noida](https://uncodemy.com/course/rag-engineering-course-training-course-in-noida)
+- [Software Testing Training Course Training in Delhi](https://uncodemy.com/course/software-testing-training-course-in-delhi)
+- [Software Testing Training Course Training in Noida](https://uncodemy.com/course/software-testing-training-course-in-noida)

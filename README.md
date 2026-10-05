@@ -244,8 +244,8 @@ docker-compose up --build
 
 To master end-to-end AI software engineering, autonomous testing agents, and retrieval-augmented generation architectures:
 
-- 🏛️ **[RAG Engineering Course Training in Delhi](https://uncodemy.com/course/rag-engineering-course-training-course-in-delhi)** — Comprehensive classroom and practical program in Delhi focusing on generative AI, LangChain, semantic retrieval, and real-world AI applications.
-- 🏢 **[RAG Engineering Course Training in Noida](https://uncodemy.com/course/rag-engineering-course-training-course-in-noida)** — Hands-on generative AI and RAG engineering training in Noida covering vector search pipelines, model evaluation, and production deployment.
+- 🏛️ **[Software Testing Training Course Training in Delhi](https://uncodemy.com/course/software-testing-training-course-in-delhi)** — Comprehensive classroom and practical program in Delhi focusing on generative AI, LangChain, semantic retrieval, and real-world AI applications.
+- 🏢 **[Software Testing Training Course Training in Noida](https://uncodemy.com/course/software-testing-training-course-in-noida)** — Hands-on generative AI and RAG engineering training in Noida covering vector search pipelines, model evaluation, and production deployment.
 
 ---
 

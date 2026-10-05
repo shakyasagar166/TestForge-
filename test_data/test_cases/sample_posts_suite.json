@@ -1,0 +1,25 @@
+{
+  "id": "tc_users_collection",
+  "name": "GET /users - Verify Users Directory Status & Schema",
+  "description": "Validates that the users directory endpoint returns 200 with JSON payload within SLA.",
+  "method": "GET",
+  "url": "https://jsonplaceholder.typicode.com/users",
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "params": {},
+  "body": null,
+  "assertions": [
+    {
+      "type": "status_code",
+      "target": "status",
+      "expected": 200
+    },
+    {
+      "type": "response_time_ms",
+      "target": "latency",
+      "expected": 2500
+    }
+  ],
+  "tags": ["users", "smoke", "api"]
+}
